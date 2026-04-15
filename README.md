@@ -1,12 +1,12 @@
 # Disentangled Generative AI-Guided Closed-Loop Optimization of Deposition Morphology in 3D Bioprinting
 
-This repository contains main scripts used for the manuscript "Disentangled Generative AI-Guided Closed-Loop Optimization of Deposition Morphology in 3D Bioprinting" (submitted).
+This repository contains the main scripts used for the manuscript "Generative AI-guided in silico closed-loop optimization of deposition morphology in 3D bioprinting" (submitted).
 
 ## Abstract
 pending
 
 **Keywords:** 
-pending
+3D bioprinting; deposition morphology; machine learning; generative artificial intelligence; variational autoencoder
 
 ## Disclaimer
 
