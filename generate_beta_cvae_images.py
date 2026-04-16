@@ -8,8 +8,8 @@ from datetime import datetime
 from pathlib import Path
 from PIL import Image
 
-from train_beta_cvae import BetaCVAE
-from beta_cvae_hyperparameters import LATENT_DIM, CONDITION_DIM
+from model_training.beta_CVAE.train_beta_CVAE import BetaCVAE
+from model_training.beta_CVAE.beta_CVAE_hyperparameters import LATENT_DIM, CONDITION_DIM
 
 
 def load_model_and_scaler(model_path, scaler_path) -> tuple:
@@ -211,8 +211,8 @@ def main() -> None:
     temperature = 0.7
 
     # Paths
-    model_path = "training_output/beta_cvae_best_model.pth"
-    scaler_path = "training_output/condition_scaler.pkl"
+    model_path = "models/beta_CVAE/grid_model.pth"
+    scaler_path = "models/beta_CVAE/condition_scaler.pkl"
     output_dir = Path("generated_images")
 
     # Create output directory
@@ -223,8 +223,8 @@ def main() -> None:
 
     # Load data
     model, scaler, device = load_model_and_scaler(model_path, scaler_path)
-    rheology_df = pd.read_csv("csv_data_files/cross_power_law_results.csv")
-    ph_df = pd.read_csv("csv_data_files/ink_ph_content_mmol_per_ml.csv")
+    rheology_df = pd.read_csv("csv_data_files_generation/cross_power_law_results.csv")
+    ph_df = pd.read_csv("csv_data_files_generation/ink_ph_content_mmol_per_ml.csv")
 
     print(f"\nGenerating RGB images with:")
     print(f"- Temperature: {temperature}")

@@ -16,7 +16,11 @@ from pathlib import Path
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
-from beta_cvae_hyperparameters import LATENT_DIM, CONDITION_DIM, BETA
+from model_training.beta_CVAE.beta_CVAE_hyperparameters import (
+    LATENT_DIM,
+    CONDITION_DIM,
+    BETA,
+)
 
 
 class GridImageDataset(Dataset):
