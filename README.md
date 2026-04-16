@@ -10,7 +10,7 @@ Recent advances in novel bioinks have dramatically increased the feasibility and
 
 
 ## Data Availability
-Please note that some scripts in this repository might require the corresponding data files to run successfully. The data that support the findings of this study are openly available in Zenodo at [https://doi.org/10.5281/zenodo.19602891](https://doi.org/10.5281/zenodo.19602891) (v0.0.2).
+Please note that some scripts in this repository might require the corresponding data files or models to run successfully. The data that support the findings of this study are openly available in Zenodo at [https://doi.org/10.5281/zenodo.19602891](https://doi.org/10.5281/zenodo.19602891) (v0.0.2).
 
 ## Disclaimer
 This repository is intended for educational and research purposes. The authors are not responsible for any misuse of the code or data provided herein. Users are encouraged to cite the original manuscript when using this code in their research.
