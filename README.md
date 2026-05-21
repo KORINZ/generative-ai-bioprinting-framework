@@ -8,6 +8,12 @@ Recent advances in novel bioinks have dramatically increased the feasibility and
 **Keywords:** 
 3D bioprinting; deposition morphology; machine learning; generative artificial intelligence; variational autoencoder
 
+<p align="center">
+  <a href="https://doi.org/10.1080/17452759.2026.2671497">
+    <img width="525" height="477" alt="GraphicalAbstract1" src="https://github.com/user-attachments/assets/3720c9e7-7d1d-429a-9b8a-b90c8facfc92" />
+  </a>
+</p>
+
 ## GUI Screenshot
 <p align="center">
   <a href="https://github.com/KORINZ/nhk-news-scraper-gui#nhk-news-web-easy-scraper">
