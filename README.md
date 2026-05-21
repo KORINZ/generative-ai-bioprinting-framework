@@ -15,6 +15,26 @@ Recent advances in novel bioinks have dramatically increased the feasibility and
   </a>
 </p>
 
+## Citation
+Colin Zhang, Kelum Elvitigala, and Shinji Sakai.
+Generative AI-guided in silico closed-loop optimisation of deposition morphology for 3D bioprinting applications. <i>Virtual and Physical Prototyping</i> <b>21</b>, e2671497 (2026). <a href="https://doi.org/10.1080/17452759.2026.2671497">https://doi.org/10.1080/17452759.2026.2671497</a>.
+
+```bibtex
+@article{zhang_machine_2024,
+  author = {Colin Zhang and Kelum Elvitigala and Wildan Mubarok and Yasunori Okano and Shinji Sakai},
+  title = {Generative AI-guided in silico closed-loop optimisation of deposition morphology for 3D bioprinting applications},
+  journal = {Virtual and Physical Prototyping},
+  volume = {21},
+  number = {1},
+  pages = {e2671497},
+  year = {2026},
+  month = {may},
+  publisher = {Taylor \& Francis},
+  doi = {10.1080/17452759.2026.2671497},
+  url = {https://doi.org/10.1080/17452759.2026.2671497}
+}
+```
+
 ## Data Availability
 Please note that some scripts in this repository may require the corresponding data files or models to run successfully. Some scripts may require changes to file paths to access the data.
 The data that support the findings of this study are openly available in Zenodo at [https://doi.org/10.5281/zenodo.19602891](https://doi.org/10.5281/zenodo.19602891) (v0.0.2).
