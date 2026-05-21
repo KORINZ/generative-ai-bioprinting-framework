@@ -20,7 +20,7 @@ Colin Zhang, Kelum Elvitigala, and Shinji Sakai.
 Generative AI-guided in silico closed-loop optimisation of deposition morphology for 3D bioprinting applications. <i>Virtual and Physical Prototyping</i> <b>21</b>, e2671497 (2026). <a href="https://doi.org/10.1080/17452759.2026.2671497">https://doi.org/10.1080/17452759.2026.2671497</a>.
 
 ```bibtex
-@article{zhang_machine_2024,
+@article{zhang_genai_2026,
   author = {Colin Zhang and Kelum Elvitigala and Wildan Mubarok and Yasunori Okano and Shinji Sakai},
   title = {Generative AI-guided in silico closed-loop optimisation of deposition morphology for 3D bioprinting applications},
   journal = {Virtual and Physical Prototyping},
