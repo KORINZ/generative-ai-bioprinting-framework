@@ -27,7 +27,7 @@ Generative AI-guided in silico closed-loop optimisation of deposition morphology
 
 ```bibtex
 @article{zhang_genai_2026,
-  author = {Colin Zhang and Kelum Elvitigala and Wildan Mubarok and Yasunori Okano and Shinji Sakai},
+  author = {Colin Zhang and Kelum Elvitigala and Shinji Sakai},
   title = {Generative AI-guided in silico closed-loop optimisation of deposition morphology for 3D bioprinting applications},
   journal = {Virtual and Physical Prototyping},
   volume = {21},
