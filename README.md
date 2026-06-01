@@ -14,10 +14,10 @@ Recent advances in novel bioinks have dramatically increased the feasibility and
   </a>
 </p>
 
-## GUI Screenshot
+## GUI Animation
 <p align="center">
-  <a href="https://github.com/KORINZ/nhk-news-scraper-gui#nhk-news-web-easy-scraper">
-    <img width="800" alt="GUI_white" src="https://github.com/user-attachments/assets/719a0225-1716-4bd8-9b85-b88c90c79557" />
+  <a href="https://doi.org/10.1080/17452759.2026.2671497">
+    <img width="1280" height="931" alt="GUI Animation" src="https://github.com/user-attachments/assets/b225e755-f2d4-480b-8b66-77dd1e6012ee" />
   </a>
 </p>
 
