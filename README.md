@@ -10,7 +10,7 @@ Recent advances in novel bioinks have dramatically increased the feasibility and
 
 <p align="center">
   <a href="https://doi.org/10.1080/17452759.2026.2671497">
-    <img width="6525" height="2600" alt="GraphicalAbstract3" src="https://github.com/user-attachments/assets/0512985f-ca30-49cc-8373-7b47a0fe7677" />
+    <img width="1000" alt="GraphicalAbstract3" src="https://github.com/user-attachments/assets/0512985f-ca30-49cc-8373-7b47a0fe7677" />
   </a>
   <br>
   <sub>Adapted from Zhang, C. et al., <i>Virtual and Physical Prototyping</i> <b>21</b>, e2671497 (2026), under CC BY 4.0.</sub>
