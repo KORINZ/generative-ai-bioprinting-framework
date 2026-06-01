@@ -51,5 +51,5 @@ Generative AI-guided in silico closed-loop optimisation of deposition morphology
 The data and AI models that support the findings of this study are openly available in Zenodo at [https://doi.org/10.5281/zenodo.19602891](https://doi.org/10.5281/zenodo.19602891) (v0.0.2).
 
 ## Disclaimer
-Please note that some scripts in this repository may require the corresponding data files or AI models to run successfully. Certain scripts may require changes to file paths to access the data.This repository is intended for educational and research purposes. The authors are not responsible for any misuse of the code or data provided herein. Users are encouraged to cite the original manuscript when using this code in their research.
+Please note that some scripts in this repository may require the corresponding data files or AI models to run successfully. Certain scripts may require changes to file paths to access the data.This repository is intended for educational and research purposes. The authors are not responsible for any misuse of the code, data or AI models provided herein. Users are encouraged to cite the original manuscript when using this code in their research.
 
